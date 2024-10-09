@@ -1,0 +1,7 @@
+.carousel-inner img{
+    height:100px;
+}
+.carousel-item{
+    min-height: 90vh;
+    height: 300px;
+}
